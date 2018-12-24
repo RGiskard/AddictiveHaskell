@@ -1,2 +1,2 @@
-Int->Int->Int
-a b=a+b
+suma::Int->Int->Int
+suma a b=a+b
