@@ -1,2 +1,2 @@
-Int->Int->Int
-a b=a+b
+main=putStrLn "Hello, world"
+
